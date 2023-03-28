@@ -22,14 +22,14 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.inputes {
+.inputs {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
 
-.inputes > div {
+.inputs > div {
   margin: 5px;
 }
 
